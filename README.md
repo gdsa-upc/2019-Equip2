@@ -13,4 +13,5 @@ Marçal Garcia, Marc Leon, Guillem Martínez-illescas i Aleix Martínez.
 
 ## Entrega final
 El script final, corresponent a la entrega 4, es pot trobar en [aquest enllaç](https://github.com/gdsa-upc/2019-Equip2/blob/master/Projectes%20PyCharm/Sessi%C3%B3%204/Cerca_Visual.ipynb).
+
 En [aquest enllaç](https://www.kaggle.com/c/18179/download-all) es pot descarregar el dataset "Terrassa Buildings" utilitzat.
